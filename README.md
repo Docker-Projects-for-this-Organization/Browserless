@@ -2,8 +2,6 @@
 
 This example deploys a self-hosted version of [Browserless](https://browserless.io/).
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/browserless)
-
 ## ✨ Features
 
 - Browserless
